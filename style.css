@@ -1,0 +1,324 @@
+body{
+  background-image: url(/blue_bg.png)
+  ;
+  background-color: white;
+  background-repeat: no-repeat;
+  background-size: 680px;
+  width: 240px;
+  height: 200px;
+  padding: 8px 13px 0px 13px;
+}
+  .div{
+  display: flex;
+  justify-content: space-between;
+  
+ 
+  
+  }
+  
+  .deda{
+    position: relative;
+    top: 10px;
+    right: 37px;
+    
+  }
+
+
+
+
+  
+
+
+.inbut{
+  position: relative;
+  left: 100px;
+  background-color: grey;
+  border: solid;
+}
+
+
+
+
+.sona{
+  position: absolute;
+  left: 65px;
+  top: 35px;
+  width: 300px;
+  display: flex;
+  justify-content: space-between;
+  text-decoration: none;
+  
+  
+  
+}
+
+
+
+  
+  .img0{
+    position: relative;
+  
+    width:200px;
+    left: 430px;
+ border-top-right-radius: 30px;
+    bottom: 100px;
+    
+    
+  }
+  
+  
+  
+
+  .img1 {
+
+    position: absolute;
+    top: 100px;
+    right: 100px;
+    width: 100px;
+    bottom: 200px;
+   
+  }
+.img2 {
+  position: absolute;
+  bottom: 600px;
+  left: 400px;
+  width: 200px;
+  top: 250px;
+}
+
+.img3{
+  position: absolute;
+  bottom: 650px;
+  right: 100px;
+  width: 600px;
+  top: 230px;
+}
+
+
+
+.g1{
+  position: relative;
+  padding-bottom: 10px;
+  width: 100px;
+}
+
+.g2{
+  position: absolute;
+  width: 120px;
+  right: 7px;
+  left: 250px;
+  bottom: 250px;
+}
+
+
+.g3{
+  position: absolute;
+  width: 100px;
+  right: 50px;
+  
+  bottom: 120px;
+}
+
+.g4{
+  position: absolute;
+  width: 550px;
+  right: 100px;
+  top: px;
+  left: 100px;
+  bottom: 180px;
+}
+
+
+
+
+
+
+
+
+.t1{
+  width: 100px;
+  height: 30px;
+  text-align: justify;
+  font-size: 2px;
+  font-variant: normal;
+}
+.diva{
+  text-align: justify;
+}
+
+.g5{
+  position: relative;
+  width: 200px;
+  top: 150px;
+}
+
+
+
+
+
+.c55{
+  position: absolute;
+  right: 500px;
+  width: 100px;
+  font-size: 10px;
+  color: white;
+
+ 
+}
+
+.shawky{
+  position: relative;
+  left: 10px;
+  top: 370px;
+  right: 150px;
+  width: 130px;
+}
+
+.shams{
+  position: absolute;
+  width: 250px;
+  
+  left: 200px;
+  
+  
+    
+  }
+  
+  .ro{
+    position: relative;
+    width: 100px;
+    height: 30px;
+    left: 270px;
+    top: 190px;
+    font-size: 5px;
+   text-align: right;
+  }
+  
+
+.bero{
+  position: absolute;
+  right: 2px;
+  top: 1100px;
+  width: 150px;
+}
+
+
+
+
+
+.imggroup{
+  position: absolute;
+  width: 750px;
+  height: 400;
+  bottom: 10px;
+  left: 10px;
+  top: 1900px;
+  right: 100;
+  
+}
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+  
+
+.group2{
+  position: absolute;
+  width: 300px;
+  top: 2000px;
+  right: 85px;
+   left: 320px;
+   bottom: 16px;
+ 
+}
+.nov{
+  position: absolute;
+  top: 2250px;
+  width: 400px;
+  display: flex;
+  justify-content: space-between;
+  text-decoration: none;
+  
+  
+  }
+  
+
+  /*mouse over link*/
+  
+  a:hover{
+    color: blue;
+    text-decoration: none;
+    
+  }
+  .icons{
+    display: flex;
+    justify-content: space-between;
+    width: 100px;
+    height: 20px;
+    position: relative;
+    left: 20px;
+   top: 1300px;
+    
+  }
+  .pop{position: absolute;
+    width: 100px;
+    height: 30px;
+    right: 200px;
+    left: 260px;
+    top: 730px;
+    bottom: 200px;
+   text-align: center;
+  font-size: 2px;
+  font-variant: normal;
+  
+  }
+  .i{
+    position: absolute;
+    display: flex;
+    justify-content: space-between;
+    width: 250px;
+    right: 230px;
+    top: 1150px;
+    bottom: 1600px;
+  }
+  .miada{
+    position: absolute;
+    
+    width: 100px;
+    height: 30px;
+     left: 550px;
+    top: 850px;
+    bottom: 200px;
+   text-align: center;
+  font-size: 2px;
+  font-variant: normal;
+  
+  }
+  .lolo{ 
+    position: absolute;
+    width: 100px;
+    height: 30px;
+    right: 50px;
+    top: 2px;
+   
+    
+    
+  }
+  .login{
+    position: absolute;
+    left: 550px;
+    top: 5px;
+    right: 10px;
+    text-align: center;
+  font-size: 10px;
+  font-variant: normal;
+    
+    
+    
+    
+  }
